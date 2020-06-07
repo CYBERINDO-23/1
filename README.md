@@ -12,8 +12,8 @@ Tidak Dianjurkan Untuk Merusak Atau Pengcopyan File
 * apt-get update && apt instal git
 * git clone 
 * apt install python
-* chmod +x BoomEmail
-* python BoomEmail
+* chmod +x autostart.py && cd WEB
+* python autostart.py
 ```
 Akses aplikasi
 1.  Email
