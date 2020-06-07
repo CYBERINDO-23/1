@@ -55,6 +55,13 @@ Menggunakan Method Sendmail
 Oleh Sebab Itu Tools Harus Diberi Izin Terlebih Dahulu
 Karna Ada 3 Argument Yang Harus Digunakan 
 ```
-### Download, setup, and usage For Linux
+### Download, setup, and usage For Android
+*Download Aplikasi Tambahan Termux Dan AndroNix Diplaystore 
+ Install Kedua Nya
+*Setelah Diinstall Buka Aplikasi Termux Lalu Ketik ( pkg update )
+ Enter Kyboard Android - Jika Ada Option Pertanyaan Ketik 
+ Yes Tunggu Hingga Proses Selesai
+  
+
 
 
