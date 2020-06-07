@@ -67,12 +67,11 @@ Karna Ada 3 Argument Yang Harus Digunakan
  ```
 * Setelah Selesai lalu Ketik Ditermux ``` ./start-kali.sh ``` setelah itu Enter Jika Sudah Muncul Bacaan ``` Root@localhost ```Lalu Ketik ``` apt-get update ``` Enter - Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
 * Lalu Berikut nya ketik ``` apt instal git ``` enter Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
-* setelah Selesai Semua Ketik ``` git clone https://github.com/byindosecurity/Hack-Email.git ```enter Jika Ada Option Pertanyaan      
-  Ketik Yes Tunggu Hingga Proses Selesai
+* setelah Selesai Semua Ketik ``` git clone https://github.com/byindosecurity/Hack-Email.git ```enter Jika Ada Option 
+  Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
 * setelah itu ketik ``` apt install python ``` enter Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
 * setelah itu ketik ``` ls ``` untuk melihat directory Jika Ada Muncul Bacaan MSG ketik ``` cd WEB ``` Enter
-* setelah Itu jika Sudah Benar Maka tulisan Nya akan Menjadi root@localhost/MSG jika sudah Ketik ``` chmod +x autostart.py ```Enter 
-  Lalu Ketik ``` python autostart.py ``` Untuk Menjalan kan Nya
+* setelah Itu jika Sudah Benar Maka tulisan Nya akan Menjadi root@localhost/MSG jika sudah Ketik ``` chmod +x autostart.py ```Enter Lalu Ketik ``` python autostart.py ``` Untuk Menjalan kan Nya
   
 ### EXIT [ ? ]
 * Tutorial Cara Pembuatan Tools Nya Bisa Kalian Check Disini : https://youtu.be/JCqup2Vmaz8
