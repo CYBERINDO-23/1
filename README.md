@@ -1,5 +1,5 @@
 ```
-Cara Hack Email Menggunakan Bahasa Python Serangan Ini Memungkin Anda Mengirim Pesan Sebanyak 
+Cara Hack Email Menggunakan Bahasa Python Serangan Ini Memungkinkan Anda Mengirim Pesan Sebanyak 
 Mungkin Hingga Pada Kondisi Tertentu Email Korban Tidak Bisa Diakses Kembali Warning : Sangat 
 Tidak Dianjurkan Untuk Merusak Atau Pengcopyan File
 ```
@@ -74,7 +74,7 @@ Karna Ada 3 Argument Yang Harus Digunakan
 * setelah Itu jika Sudah Benar Maka tulisan Nya akan Menjadi root@localhost/MSG jika sudah Ketik ``` chmod +x MSG.py ```Enter 
   Lalu Ketik ``` ./MSG.py ``` Untuk Menjalan kan Nya
   
-### EXIT ()
+### EXIT [ ? ]
 * Tutorial Cara Pembuatan Tools Nya Bisa Kalian Check Disini : https://youtu.be/JCqup2Vmaz8
 
 
