@@ -13,5 +13,23 @@ Tidak Dianjurkan Untuk Merusak Atau Pengcopyan File
 * git clone 
 * apt install python
 * chmod +x BoomEmail
+* python BoomEmail
+```
+Akses aplikasi
+1.  Email
+2.  Wlan Access
+3.  Izin Khusus
+
+WEB
+4.  not detected spam
+5.  Not Much to Use Package
+6.  Can Damage the System
+7.  can send a virus
+
+MISC
+7. Download Tools
+8. Update File
+9. Exit
+```
 
 
