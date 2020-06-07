@@ -37,21 +37,23 @@ MISC
 Anda Bisa Mengunjungi Link Berikut : https://myaccount.google.com/lesssecureapps
 
 ```
-API key locations:
+Penjelasan Akses :
 
-recon-ng
-    show keys
-    keys add bing_api <value>
+Method sendmail() 
+    fasilitas mail routing antar jaringan
+    <Email><To><Password>
 
-theHarvester
-    /opt/theHarvester/api-keys.yaml
+Pengertian Sendmail 
+   sendmail adalah implementasi Simple Mail Transfer Protocol 
+   (SMTP) berbasis UNIX yang paling populer untuk 
+   mentransmisikan email
 ```
 
-### Person
+### HackEmail
 ```
-RECON
+Menggunakan Method Sendmail
+Oleh Sebab Itu Tools Harus Diberi Izin Terlebih Dahulu
+Karna Ada 3 Argument Yang Harus Digunakan 
 
-First name:
-Last name:
 ```
 
