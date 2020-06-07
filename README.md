@@ -32,9 +32,26 @@ MISC
 9. Exit
 ```
 ## AKSES APLIKASI
-```
-[*]Sebelum Menggunakan Tools Ini Anda Harus Memberi Izin Akses
+
+[*]Sebelum Menggunakan Tools Ini Anda Wajib Memberi Izin Akses Terlebih Dahulu
 Anda Bisa Mengunjungi Link Berikut : https://myaccount.google.com/lesssecureapps
 
+```
+API key locations:
+
+recon-ng
+    show keys
+    keys add bing_api <value>
+
+theHarvester
+    /opt/theHarvester/api-keys.yaml
+```
+
+### Person
+```
+RECON
+
+First name:
+Last name:
 ```
 
