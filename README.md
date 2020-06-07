@@ -32,12 +32,9 @@ MISC
 9. Exit
 ```
 ## AKSES APLIKASI
-### GIVE SPECIAL PERMISSIONS
 ```
-Some applications and devices use less secure login technology, so your account 
-becomes vulnerable. You can disable access for this application, as we recommend, 
-or enable access if you want to use it even if it is risky
-https://myaccount.google.com/lesssecureapps
+[*]Sebelum Menggunakan Tools Ini Anda Harus Memberi Izin Akses
+Anda Bisa Mengunjungi Link Berikut : https://myaccount.google.com/lesssecureapps
 
 ```
 
