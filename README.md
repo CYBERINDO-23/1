@@ -56,16 +56,20 @@ Oleh Sebab Itu Tools Harus Diberi Izin Terlebih Dahulu
 Karna Ada 3 Argument Yang Harus Digunakan 
 ```
 ### Download, setup, and usage For Android
-* Download Aplikasi Tambahan Termux Dan AndroNix Diplaystore 
+々 Download Aplikasi Tambahan Termux Dan AndroNix Diplaystore 
   Install Kedua Nya
-* Setelah Diinstall Buka Aplikasi Termux Lalu Ketik ``` pkg update ```
-  Enter Kyboard Android - Jika Ada Option Pertanyaan Ketik 
+々 Setelah Diinstall Buka Aplikasi Termux Lalu Ketik ``` pkg update ```
+  Enter Keyboard Android - Jika Ada Option Pertanyaan Ketik 
   Yes Tunggu Hingga Proses Selesai
-* Setelah Selesai Copy Lalu Paste Di Termux Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
+々 Setelah Selesai Copy Lalu Paste Di Termux Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
 ```
   pkg install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/Techriz/AndronixOrigin /master/Installer/Kali/kali.sh && bash kali.sh 
  ```
-* Setelah Selesai lalu Ketik Ditermux ``` ./start-kali.sh ``` setelah itu Enter Jika Sudah Muncul Bacaan ``` Root@localhost ```Lalu Ketik ``` apt-get update ``` Enter - Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
-
+々 Setelah Selesai lalu Ketik Ditermux ``` ./start-kali.sh ``` setelah itu Enter Jika Sudah Muncul Bacaan ``` Root@localhost ```Lalu Ketik ``` apt-get update ``` Enter - Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
+々 Lalu Berikut nya ketik ( apt instal git ) enter Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
+々 setelah Selesai Semua Ketik ( git clone https://github.com/CYBERINDO-23/HackEmail.git )enter Jika Ada Option Pertanyaan      
+  Ketik Yes Tunggu Hingga Proses Selesai
+々 setelah itu ketik ( apt install python) enter Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
+々 setelah itu ketik ( ls ) untuk melihat directory Jika Ada Muncul Bacaan MSG ketik ( cd MSG ) Enter
 
 
