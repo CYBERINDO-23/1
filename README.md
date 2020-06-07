@@ -20,7 +20,7 @@ Akses aplikasi
 2.  Wlan Access
 3.  Izin Khusus
 
-WEB
+Excess of tools
 4.  not detected spam
 5.  Not Much to Use Package
 6.  Can Damage the System
@@ -33,7 +33,7 @@ MISC
 ```
 ## AKSES APLIKASI
 
-[*]Sebelum Menggunakan Tools Ini Anda Wajib Memberi Izin Akses Terlebih Dahulu
+[々]Sebelum Menggunakan Tools Ini Anda Wajib Memberi Izin Akses Terlebih Dahulu
 Anda Bisa Mengunjungi Link Berikut : https://myaccount.google.com/lesssecureapps
 
 ```
@@ -73,5 +73,8 @@ Karna Ada 3 Argument Yang Harus Digunakan
 * setelah itu ketik ``` ls ``` untuk melihat directory Jika Ada Muncul Bacaan MSG ketik ``` cd MSG ``` Enter
 * setelah Itu jika Sudah Benar Maka tulisan Nya akan Menjadi root@localhost/MSG jika sudah Ketik ``` chmod +x MSG.py ```Enter 
   Lalu Ketik ``` ./MSG.py ``` Untuk Menjalan kan Nya
+  
+### EXIT ()
+* Tutorial Cara Pembuatan Tools Nya Bisa Kalian Check Disini : https://youtu.be/JCqup2Vmaz8
 
 
