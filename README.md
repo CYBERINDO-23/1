@@ -58,13 +58,14 @@ Karna Ada 3 Argument Yang Harus Digunakan
 ### Download, setup, and usage For Android
 * Download Aplikasi Tambahan Termux Dan AndroNix Diplaystore 
   Install Kedua Nya
-* Setelah Diinstall Buka Aplikasi Termux Lalu Ketik ( pkg update )
+* Setelah Diinstall Buka Aplikasi Termux Lalu Ketik ``` pkg update ```
   Enter Kyboard Android - Jika Ada Option Pertanyaan Ketik 
   Yes Tunggu Hingga Proses Selesai
-* Setelah Selesai Copy
+* Setelah Selesai Copy Lalu Paste Di Termux Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
 ```
   pkg install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/Techriz/AndronixOrigin /master/Installer/Kali/kali.sh && bash kali.sh 
  ```
-  Lalu Paste Di Termux Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
+* Setelah Selesai lalu Ketik Ditermux ``` ./start-kali.sh ``` setelah itu Enter Jika Sudah Muncul Bacaan ``` Root@localhost ```Lalu Ketik ``` apt-get update ``` Enter - Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
+
 
 
