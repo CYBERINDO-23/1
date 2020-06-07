@@ -61,7 +61,10 @@ Karna Ada 3 Argument Yang Harus Digunakan
 * Setelah Diinstall Buka Aplikasi Termux Lalu Ketik ( pkg update )
   Enter Kyboard Android - Jika Ada Option Pertanyaan Ketik 
   Yes Tunggu Hingga Proses Selesai
-  
-
+* Setelah Selesai Copy
+```
+  pkg install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/Techriz/AndronixOrigin /master/Installer/Kali/kali.sh && bash kali.sh 
+ ```
+  Lalu Paste Di Termux Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
 
 
