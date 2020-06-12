@@ -35,7 +35,7 @@ MISC
 3. Exit
 ```
 ## Penjelasan Tentang WEB-shell
-Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini : https://github.com/rupatindo/Documents/edit/master/shell-backdoor.md
+Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini :[![Kunjungi: Wiki ](https://img.shields.io/badge/Kunjungi-Wiki-red.svg)](https://github.com/rupatindo/Documents/edit/master/shell-backdoor.md)
 Untuk proses Pembuatan Nya Sudah Kami Sediakan Di Folder WEB
 Silahkan Di Pelajari Check Pembahasan Mengenai Backdoor Byindosecurity
 Kunjungi Video Tutorial WEB Disini : https://www.youtube.com/playlist?list=PLo5igoP7j7KIDXY65zkGomXMhVLmABs30 
