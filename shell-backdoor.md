@@ -14,21 +14,23 @@ untuk melakukan akses ke dalam sistem dengan mengeksekusi program tertentu.
 * Buka Server Apache 
 * Jalankan WEBshell.php 
 ```
-```
-Akses aplikasi
-1.  Email
-2.  Wlan Access
-3.  Izin Khusus
+Application Features
+1.  Edit
+2.  Hapus
+3.  Download
+4.  Upload
+5.  Responsive
 
-Excess of tools
-4.  not detected spam
-5.  Not Much to Use Package
-6.  Can Damage the System
-7.  can send a virus
+Usability Application
+1.  Full System Access Rights
+2.  Simplify Emergency Projects
+3.  Can Damage the System
+4.  can send a virus
+5.  Deface WEB 
 
 MISC
-7. Download Tools
-8. Update File
-9. Exit
+1. Download Tools
+2. Run File
+3. Exit
 ```
 
