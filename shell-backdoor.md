@@ -10,7 +10,7 @@ untuk melakukan akses ke dalam sistem dengan mengeksekusi program tertentu.
 ***
 ### Download, setup, and usage For Git
 * apt-get update && apt instal git
-* git clone ``` git clone https://github.com/byindosecurity/WEB-shell.git ```
+* git clone git clone https://github.com/byindosecurity/WEB-shell.git 
 * Buka Server Apache 
 * Jalankan WEBshell.php 
 ***
