@@ -36,8 +36,8 @@ MISC
 ```
 ## Penjelasan Tentang WEB-shell
 * Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini : https://shorturl.at/tCLW9
-* Untuk proses Pembuatan Nya Sudah Kami Sediakan Di Folder WEB
-Silahkan Di Pelajari Check Pembahasan Mengenai Backdoor Byindosecurity
+* Untuk proses Pembuatan Nya Sudah Kami Sediakan Di Folder WEBSilahkan Di 
+Pelajari Check Pembahasan Mengenai Backdoor Byindosecurity
 * Kunjungi Video Tutorial WEB Disini : https://shorturl.at/tCLW9
 
 ### Download, setup, and usage For Android
