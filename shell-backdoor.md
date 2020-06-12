@@ -35,12 +35,10 @@ MISC
 3. Exit
 ```
 ## Penjelasan Tentang WEB-shell
-> Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini : shorturl.at/dxHLP 
-
-> Untuk proses Pembuatan Nya Sudah Kami Sediakan Di Folder WEB
+* Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini : https://shorturl.at/tCLW9
+* Untuk proses Pembuatan Nya Sudah Kami Sediakan Di Folder WEB
 Silahkan Di Pelajari Check Pembahasan Mengenai Backdoor Byindosecurity
-
-> Kunjungi Video Tutorial WEB Disini : shorturl.at/dxHLP
+* Kunjungi Video Tutorial WEB Disini : https://shorturl.at/tCLW9
 
 ### Download, setup, and usage For Android
 * Download Aplikasi Tambahan Termux Dan AndroNix Diplaystore 
@@ -59,5 +57,5 @@ Silahkan Di Pelajari Check Pembahasan Mengenai Backdoor Byindosecurity
 * setelah itu Masukan File WEBshell.php Kedalam Server Dan Jalankan
  
 ### EXIT [ ? ]
-* Tutorial Cara Pembuatan Tools Nya Bisa Kalian Check Disini : shorturl.at/tCLW9
+* Tutorial Cara Pembuatan Tools Nya Bisa Kalian Check Disini : https://shorturl.at/tCLW9
 
