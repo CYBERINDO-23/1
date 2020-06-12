@@ -35,12 +35,12 @@ MISC
 3. Exit
 ```
 ## Penjelasan Tentang WEB-shell
-> Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini :https://github.com/rupatindo/Documents/edit/master/shell-backdoor.md 
+> Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini : shorturl.at/dxHLP 
 
 > Untuk proses Pembuatan Nya Sudah Kami Sediakan Di Folder WEB
 Silahkan Di Pelajari Check Pembahasan Mengenai Backdoor Byindosecurity
 
-> Kunjungi Video Tutorial WEB Disini : https://www.youtube.com/playlist?list=PLo5igoP7j7KIDXY65zkGomXMhVLmABs30 
+> Kunjungi Video Tutorial WEB Disini : shorturl.at/dxHLP
 
 ### Download, setup, and usage For Android
 * Download Aplikasi Tambahan Termux Dan AndroNix Diplaystore 
