@@ -4,7 +4,6 @@ Yang Bisa Kalian Create Sesuai Dengan Nama Team Kalian Masing Masing Dan Nicknam
 ***
 ![1](http://docs.google.com/uc?export=open&amp;id=1gr0HdfxNMLJX7meSIiLikH4KRH4Bv3DH)
 
-***
 [![License: MIT](https://img.shields.io/badge/Check-Youtube-red.svg)](https://youtu.be/JCqup2Vmaz8)
 [![CyberSecurity Inventory](https://img.shields.io/badge/Hack-informations-FF5050_flat.svg)](https://youtu.be/JCqup2Vmaz8)
 
@@ -37,7 +36,9 @@ MISC
 2. Run File
 3. Exit
 ```
+
 ![1](http://docs.google.com/uc?export=open&amp;id=13YyjpIeDQlJZn7Z7Mycpq_leIji6ul_L)
+
 
 ## Penjelasan Tentang Deface x Team
 * Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini : 
