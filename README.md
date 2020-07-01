@@ -20,4 +20,4 @@ Bahwasanya Sebagian Besar `Defacer Menyerang` Pada `Bagian Input Data`
 * Yang ketiga Adalah Lakukan backup website secara berkala agar aman saat terjadi suatu hal yang tidak diinginkan. Dan Lakukan update 
 software serta aplikasi ke versi yang paling terbaru.
 
-
+## [?] Seberapa Bahaya Nya Web Defacement
