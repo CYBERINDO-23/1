@@ -1,2 +1,1 @@
-cd home
-pwd
+echo "Hallo World" > /var/www/html/test.txt
